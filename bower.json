@@ -1,0 +1,17 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "authors": [
+    "John Reginald <johnthelinux@gmail.com>"
+  ],
+  "description": "John Reginald : A Freelance Web Developer",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "http://johnthelinux.com",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "scrollreveal": "scrollReveal.js#~2.3.2"
+  }
+}
