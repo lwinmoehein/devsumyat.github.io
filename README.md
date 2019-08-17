@@ -1,67 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Su Myat Htun : An Android Team Leader At WaveMoney</title>
+<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/free-bootstrap-portfolio-theme-for-web-developers.jpg" alt="Developer Theme" width="750" /></a>
 
-	<!-- Bootstrap CSS -->
-	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.5.10/css/bootstrap-material-design.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	
-	<link rel="stylesheet" type="text/css" href="app.min.css">	
-	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-k2/8zcNbxVIh5mnQ52A0r3a6jAgMGxFJFE2707UxGCk= sha512-ZV9KawG2Legkwp3nAlxLIVFudTauWuBpC10uEafMHYL0Sarrz5A7G79kXh5+5+woxQ5HM559XX2UZjMJ36Wplg==" crossorigin="anonymous">
-</head>
-<body>
-	
-	<div class="container wrapper">
-		<div class="row">
-			<div class="col-md-6 text-center">							
-				<img class="img img-responsive img-circle center-block avatar" src="https://lh3.googleusercontent.com/-fqPpZ_1oLdk/XEAB64mx0MI/AAAAAAAAANY/ShEdsrmg5zsnxLCrcu2ZxlowYadZ1REQACEwYBhgL/w280-h280-p/meprofile.jpeg">
+## Theme Details & Demo
 
-				<h2 class="name" data-sr="enter bottom ease scale wait 0.3s">Su Myat Htun</h2>
-				
-				<h4 class="job text-muted" data-sr="enter bottom ease scale wait 0.3s">Professional Android Developer</h4>	
+**Demo:** https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/
 
-				<div class="social-icon" data-sr="enter bottom ease scale wait 0.3s">
-					<a target="_blank" href="https://www.facebook.com/su.htun.31"><i class="fa fa-facebook fa-3x"></i></a>
-					<a target="_blank" href="https://www.linkedin.com/in/su-myat-htun-576336152/"><i class="fa fa-linkedin fa-3x"></i></a>
-					<a target="_blank" href="https://github.com/devsumyat"><i class="fa fa-github fa-3x"></i></a>
-					<a target="_blank" href="https://twitter.com/SuMyatHtun9"><i class="fa fa-twitter fa-3x"></i></a>
-					<a href="tel: +959791009038"><i class="fa fa-phone fa-3x"></i></a>					
-				</div>
+Developer is a free Bootstrap 4 theme designed to **help developers promote their work**. 
+It can be used as a **professional portal** to your other online portfolios or websites (eg. Linkedin, CoderWall, Blog, GitHub etc) **in a modular fashion**. 
+The template comes with all of the **source SCSS files included** so the styling/colour can easily be customised to your taste.
 
-			</div>
+## Author & License
 
-			<!-- About me -->
-			<div class="about col-md-6">
+This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE as long as you **keep the footer attribution link**. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
 
-				<div class="well">
-					<p data-sr=" bottom ease scale wait 0.1s">
-						I'm a Android Team Leader At <a target="_blank" href="https://www.wavemoney.com.mm/">WaveMoney</a>. I have a solid background in creating complex mobile applications for Android. I can work independently and respect a deadline. I feel comfortable working with a good team of developers. I am passionate about the mobile maketing and have knowledge about. I'm love to learn new stuff every day to be on a top of <a target="_blank" href="https://developer.android.com/">Android technologies</a> and best practices. If you would like to hire or work with me, please feel free to <a target="_blank" href="http://johnthelinux.com/blog/contact-me">get in touch</a> and i'm very excited to discuss with you futher.	
-					</p>
-					
-					<!-- Solid Skills -->
-					<h3>My Solid Skills :</h3>
-					<p> Kotlin, Java, Android Architecture Component, Navigation Architecture Component, AndroidX, Automated Test, Unit Test, Circle CI, Cloud base automated testing, Slack Bot, Android UI/UX, Rxjava, Dagger, Android ArchHTML, C#, C++, System Analysis and Design</p>
+If you'd like to **use the template without the footer attribution link**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/)
 
-					<!-- Tools  -->
-					<h3>Specific Tools : </h3>
-					<p>Android Studio , ADB (Android Debug Bridge), AVD manager, Eclipse , Fabric ,Genymotion , Gradle , IntelliJ IDEA, LeakCanary , Stetho, Source Tree, Git , JIRA , Vysor</p>
-				</div>
-			</div>
-		</div>
-	</div>
+#### Follow Xiaoying
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/2.3.2/scrollReveal.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<script>
+[Twitter](https://twitter.com/3rdwave_themes)
 
-		window.sr = new scrollReveal();
+[Facebook](https://www.facebook.com/3rdwavethemes/)
 
-	</script>
-</body>
-</html>
+[Dribbble](https://dribbble.com/Xiaoying)
+
+[Medium](https://medium.com/@3rdwave_themes)
+
+[Linkedin](https://uk.linkedin.com/in/xiaoying)
+
+
+## Latest Version
+**v2.1** - 14 March 2019
+
+[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/?target=changelog)
+
+
+## Features
+
+-  Fully Responsive
+-  HTML5 + CSS3
+-  Built on Bootstrap 4
+-  **SCSS** source files included
+-  1000+ FontAwesome 5 icons
+
+
+## Credits
+- [Bootstrap](http://getbootstrap.com/)
+- [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
+- [jQuery](http://jquery.com/)
+- [GitHub Activity Stream](http://caseyscarborough.com/projects/github-activity/)
+- [GitHub Calendar Plugin](https://github.com/IonicaBizau/github-calendar)
+- [jQuery RSS](https://github.com/sdepold/jquery-rss)
+- Profile image: [Ben Smith](https://www.flickr.com/photos/dotbenjamin/2577394151)
